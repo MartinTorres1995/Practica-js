@@ -1,0 +1,25 @@
+.pokedex{
+    position: absolute;
+    left: 20%;
+}
+
+.pokedex2{
+    position: absolute;
+    left: 21.9%;
+    top: 70%;
+    width: 20px;
+}
+.cuadrotexto{
+    width: 90px;
+    position: absolute;
+    left: 26%;
+    top: 65%;
+}
+
+.pokeball{
+    position: absolute;
+    left: 42%;
+    top: 55%;
+
+    width: 200px;
+}
